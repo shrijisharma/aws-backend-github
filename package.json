@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "satrt": "node index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Shriji Sharma",
